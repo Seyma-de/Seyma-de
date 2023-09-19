@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href= "https://github.com/Seyma-de">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
+  <a href= "https://www.linkedin.com/in/seyma-betul-12b34a288/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
  
