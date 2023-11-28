@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
 
 <h1 align="center">Hi , I'm SEYMA</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
